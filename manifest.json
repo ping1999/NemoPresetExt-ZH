@@ -1,0 +1,15 @@
+{
+    "display_name": "NemoPresetExt Chinese Translation",
+    "author": "ping1999",
+    "version": "0.1.0",
+    "description": "Chinese translation patch for NemoPresetExt UI. Applies translations after NemoPresetExt renders its dynamic interface.",
+    "requires": [
+        "third-party/NemoPresetExt"
+    ],
+    "optional": [],
+    "js": "index.js",
+    "loading_order": 1101,
+    "i18n": {
+        "zh-cn": "i18n/zh-cn.json"
+    }
+}
